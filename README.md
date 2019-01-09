@@ -1,8 +1,10 @@
  <div align="center">
- <img align="center" width="180" src="https://franciscohodge.com/project-pages/js-library-boilerplate/images/JSLibraryBoilerplate.png" />
-  <h2>Javascript Library Boilerplate</h2>
-  <blockquote>Library Starter Kit for your Javascript projects</blockquote>
-  <img src="https://travis-ci.org/hodgef/js-library-boilerplate.svg?branch=master" /> <img src="https://img.shields.io/david/hodgef/js-library-boilerplate.svg" /> <img src="https://img.shields.io/david/dev/hodgef/js-library-boilerplate.svg" /> <img src="https://api.dependabot.com/badges/status?host=github&repo=hodgef/js-library-boilerplate" />
+ <img align="center" width="180" src="https://c1.staticflickr.com/7/6056/6355404323_cf97f9c58e_b.jpg" />
+  <h2>api-state-sales-tax-rates</h2>
+  <blockquote>
+    A quick and simple reference to each state's sales tax rates on food, prescription drugs, non-prescription-drugs and regular goods
+  </blockquote>
+  <!-- <img src="https://travis-ci.org/hodgef/js-library-boilerplate.svg?branch=master" /> <img src="https://img.shields.io/david/hodgef/js-library-boilerplate.svg" /> <img src="https://img.shields.io/david/dev/hodgef/js-library-boilerplate.svg" /> <img src="https://api.dependabot.com/badges/status?host=github&repo=hodgef/js-library-boilerplate" /> -->
 
 </div>
 
@@ -68,3 +70,9 @@ let MyLibrary = window.MyLibrary.default;
 - [simple-keyboard-autocorrect](https://github.com/hodgef/simple-keyboard-autocorrect)
 - [simple-keyboard-key-navigation](https://github.com/hodgef/simple-keyboard-key-navigation)
 - [hovercard](https://github.com/AnandChowdhary/hovercard)
+
+### ✅ References
+- Starter Kit: [Javascript Library Boilerplate
+](https://github.com/hodgef/js-library-boilerplate)
+- Tax Rates: [State Sales Tax Rates
+And Food & Drug Exemptions](https://www.taxadmin.org/assets/docs/Research/Rates/sales.pdf)
