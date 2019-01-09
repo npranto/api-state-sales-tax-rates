@@ -144,7 +144,7 @@ module.exports = {
     chunkFilename: 'index.[chunkhash:8].chunk.js',
     // We inferred the "public path" (such as / or /my-project) from homepage.
     publicPath: publicPath,
-    library: "MyLibrary",
+    library: "api-state-sales-tax-rates",
     libraryTarget: 'umd',
     umdNamedDefine: true,
     // Point sourcemap entries to original disk location (format as URL on Windows)
@@ -200,9 +200,9 @@ module.exports = {
         cache: true,
         sourceMap: shouldUseSourceMap,
       }),
-      new webpack.BannerPlugin({ 
-        banner: banner, 
-        entryOnly: true 
+      new webpack.BannerPlugin({
+        banner: banner,
+        entryOnly: true
       }),
       new OptimizeCSSAssetsPlugin({
         cssProcessorOptions: {
@@ -291,7 +291,7 @@ module.exports = {
             options: {
               formatter: require.resolve('react-dev-utils/eslintFormatter'),
               eslintPath: require.resolve('eslint'),
-              
+
             },
             loader: require.resolve('eslint-loader'),
           },
@@ -324,7 +324,7 @@ module.exports = {
               customize: require.resolve(
                 'babel-preset-react-app/webpack-overrides'
               ),
-              
+
               plugins: [
                 [
                   require.resolve('babel-plugin-named-asset-import'),
@@ -362,7 +362,7 @@ module.exports = {
               cacheDirectory: true,
               // Save disk space when time isn't as important
               cacheCompression: true,
-              
+
               // If an error happens in a package, it's possible to be
               // because it was compiled. Thus, we don't want the browser
               // debugger to show the original code. Instead, the code

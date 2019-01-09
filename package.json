@@ -1,6 +1,6 @@
 {
-  "name": "@hodgef/js-library-boilerplate",
-  "version": "1.0.13",
+  "name": "@npranto/api-state-sales-tax-rates",
+  "version": "0.0.1",
   "main": "build/index.js",
   "scripts": {
     "start": "node scripts/start.js",
@@ -12,15 +12,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hodgef/js-library-boilerplate"
+    "url": "https://github.com/npranto/api-state-sales-tax-rates.git"
   },
-  "author": "Francisco Hodge <hello@franciscohodge.com> (https://github.com/hodgef)",
+  "author": "Nazmuz Pranto <npranto@gmail.com> (https://github.com/npranto)",
   "bugs": {
-    "url": "https://github.com/hodgef/js-library-boilerplate/issues"
+    "url": "https://github.com/npranto/api-state-sales-tax-rates/issues"
   },
-  "homepage": "https://github.com/hodgef/js-library-boilerplate",
+  "homepage": "https://github.com/npranto/api-state-sales-tax-rates",
   "keywords": [
-    "library"
+    "library",
+    "sales tax",
+    "tax rates"
   ],
   "license": "MIT",
   "devDependencies": {
