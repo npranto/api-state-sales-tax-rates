@@ -1,7 +1,7 @@
 console.log('\x1b[36m%s\x1b[0m', `
 ______________________________________\n`);
 
-console.log('\x1b[33m%s\x1b[0m', `Thank you for installing "api-state-sales-tax-rates"!`);
+console.log('\x1b[33m%s\x1b[0m', `Thank you for installing "api-tax-rates"!`);
 console.log('\x1b[33m%s\x1b[0m', `Congrats! Now you have access to all state tax rates, use it wisely!`);
 
 

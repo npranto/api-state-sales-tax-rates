@@ -146,5 +146,9 @@
         "@babel/plugin-proposal-class-properties"
       ]
     ]
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "lodash.clonedeep": "^4.5.0"
   }
 }
