@@ -1,6 +1,6 @@
  <div align="center">
  <img align="center" width="180" src="https://c1.staticflickr.com/7/6056/6355404323_cf97f9c58e_b.jpg" />
-  <h2>api-state-sales-tax-rates</h2>
+  <h2>api-tax-rates</h2>
   <blockquote>
     A quick and simple reference to each state's sales tax rates on food, prescription drugs, non-prescription-drugs and regular goods
   </blockquote>
