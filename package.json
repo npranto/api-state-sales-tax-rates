@@ -1,5 +1,5 @@
 {
-  "name": "@npranto/api-state-sales-tax-rates",
+  "name": "@npranto/tax-rates",
   "version": "0.0.1",
   "main": "build/index.js",
   "scripts": {
@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/npranto/api-state-sales-tax-rates.git"
+    "url": "https://github.com/npranto/tax-rates.git"
   },
   "author": "Nazmuz Pranto <npranto@gmail.com> (https://github.com/npranto)",
   "bugs": {
-    "url": "https://github.com/npranto/api-state-sales-tax-rates/issues"
+    "url": "https://github.com/npranto/tax-rates/issues"
   },
-  "homepage": "https://github.com/npranto/api-state-sales-tax-rates",
+  "homepage": "https://github.com/npranto/tax-rates",
   "keywords": [
     "library",
     "sales tax",
